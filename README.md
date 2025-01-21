@@ -3,6 +3,7 @@
 
 The Equity Research Tool is a user-friendly application designed to simplify the process of retrieving and analyzing financial and stock market information.
 
+![](UI.png)
 
 ## Features
 
